@@ -63,7 +63,6 @@ body {
 }
 
 .car::after {
-  content: "aside";
   clear: both;
 }
 
