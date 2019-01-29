@@ -46,11 +46,13 @@ body {
   padding-top: 10px;
 }
 
-.car {
+.aside {
   display: block;
+  position: absolute;
   float: right;
   margin-top: 0;
   margin-right: 50px;
+  margin-left: 530px;
   height: 120px;
   width: 200px;
   color: gray;
@@ -62,7 +64,7 @@ body {
   padding-bottom: 70px;
 }
 
-.car::after {
+.aside::after {
   clear: both;
 }
 
