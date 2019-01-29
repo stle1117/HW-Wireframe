@@ -1,9 +1,9 @@
 body {
-    background-color: darkgray;
-    max-width: 900px;
+    background-color: #777;
+    max-width: 960px;
     font-size: 10pt;
     font-family:Helvetica,Arial,sans-serif;
-    color: darkgray;
+    color: #777;
     line-height: 14pt;
     padding-top: 5px;
     padding-right: 200px;
@@ -20,7 +20,7 @@ body {
     font-size: 10pt;
     font-family:Helvetica,Arial,sans-serif;
     color: gray;
-    background-color: white;
+    background-color: #ebebeb;
     padding-top: 40px;
   }
 
@@ -31,19 +31,20 @@ body {
   font-size: 10pt;
   font-family:Helvetica,Arial,sans-serif;
   color: gray;
-  background-color: white;
+  background-color: #ebebeb;
   padding-top: 40px;
 }
 
 .section {
   position: absolute;
   height: 200px;
-  width: 500px;
+  width: 495px;
   color: gray;
-  background: white;
+  background: #ebebeb;
   text-align: center;
   z-index: 0;
   padding-top: 10px;
+  padding-right: 5px;
 }
 
 .aside {
@@ -56,7 +57,7 @@ body {
   height: 120px;
   width: 200px;
   color: gray;
-  background: white;
+  background: #ebebeb;
   text-align: center;
   padding-top: 20px;
   padding-right: 60px;
@@ -88,8 +89,8 @@ body {
   padding-bottom: 50px;
   padding-left: 200px;
   border-color: black;
-  color: white;
-  background: darkgray;
+  color: #ebebeb;
+  background: #777;
   z-index: 10;
 }
 
@@ -99,7 +100,8 @@ body {
   margin-left: 100px;
   height: 30px;
   width: 100px;
-  background-color: white;
+  background-color: #ebebeb
+  color: #777
   z-index: 5;
 }
 
@@ -109,7 +111,8 @@ body {
   margin-left: 10px;
   height: 30px;
   width: 200px;
-  background-color: white;
+  background-color: #ebebeb;
+  color: #777;
   z-index: 5;
 }
 
@@ -149,7 +152,7 @@ div {
 
 .footer  {
     float: left;
-    border-bottom-left-radius: 0ex
+    border-bottom-left-radius: 0ex;
     height: 50px;
     width: 850px;
     margin-top: 20px;
@@ -157,7 +160,7 @@ div {
     font-size: 10pt;
     font-family:Helvetica,Arial,sans-serif;
     color: gray;
-    background-color: white;
+    background-color: #ebebeb;
     line-height: 14pt;
     padding-top: 40px;
     padding-bottom: 40px;
